@@ -11,15 +11,13 @@ This is a program which rotates an image(preferably jpeg or jpg format). Written
 ## How It Works
  I've written a simple algorithm to give an idea of how the program works.
  
- Start
- 
+1. Start
 1. We start with reading the image.
 2. Then user enter the angle by which the image has to be rotated.
 3. The program then finds the dimension of image and locate the centre of it. From that centre point the image 
     has to be rotated at the given angle.
 4. Then after rotation of that image, two images are shown as output, one is original and other is rotated.
-
-End
+5. End
 
 ## Tools
 
